@@ -20,7 +20,7 @@ Membuat struktur database dan Aplikasi rekapitulasi menu otomatis dari Warung Ma
 
 Desain database yang sudah dibuat sesuai dengan kaidah normalisasi adalah sebagai berikut
 
-![](D:\Camp Enigma\Submission\challenge-javadb\WMS DB Project.png)
+![WMS DB Project](https://github.com/user-attachments/assets/38321e93-3597-4159-bb87-819ab59c16bb)
 
 Keterangan :
 - Pada kolom `type` tabel `transactions` menggunakan enumerasi dengan nilai `EAT_IN`, `TAKE_AWAY`, dan `ONLINE`.
