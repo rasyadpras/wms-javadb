@@ -29,7 +29,7 @@ Keterangan :
 
 1. Clone repository ini ke mesin lokal Anda:
     ```bash
-    git clone https://git.enigmacamp.com/enigma-20/muhammad-rasyaddany-prasetyo/challenge-javadb.git
+    git clone https://github.com/rasyadpras/wms-javadb.git
     ```
 
 2. Navigasi ke direktori proyek
